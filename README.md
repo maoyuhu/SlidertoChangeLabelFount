@@ -8,7 +8,7 @@
 // 实例化对象
 MYHSliderChangeLabelFont *slider = [MYHSliderChangeLabelFont shareInsance];
 [slider listenNotify];
-记住一定要注销通知
+记住一定要注销通知详情看我的demo
 
 
 2 在你任意类里面初始化这个单例对象(demo中我在viewcontroller中写的)
