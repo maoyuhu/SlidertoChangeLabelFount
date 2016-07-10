@@ -1,5 +1,8 @@
 # SlidertoChangeLabelFount
 一键改变label的字体大小
+
+
+
 1 把MYHSliderChangeLabelFont 这个类拖到你的项目里面
 在application中初始化这个类
 // 实例化对象
